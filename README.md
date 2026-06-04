@@ -4,9 +4,8 @@ I'm a software engineer from Bangkok, Thailand 🇹🇭
 
 ### A little bit about me:
 
-- 🌱 I’m currently learning How to Design Programs (HtDP) to firm up my foundation in systematic problem solving
-- 🧠 I’m exploring how to model the world with **math**
-- ⚡ Fun fact: **My name’s Art, but but I'm not artistic at all** 😄
+- 🌱 I’m currently learning Logic to firm up my foundation in systematic problem solving
+- 🧠 I’m exploring setting up LoRa and Home Assistant in my orange orchard at Sukhothai.
 - 👀 I’m passively looking for new opportunities, feel free to reach out if you think we’d be a great match!
 
 ### 🛠️ What I do:
