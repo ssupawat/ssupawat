@@ -16,14 +16,12 @@ I've worked across a wide range of backend technologies like Go, Python, Kafka, 
 
 Now I'm focusing on building good, scalable systems and leveling up my design skills with a structured approach.
 
-### 🔧 Projects
+### 🔧 Projects:
 
-| Project | Description |
-|---|---|
-| [**dotoken**](https://github.com/ssupawat/dotoken) | macOS menu bar app to monitor AI usage limits in real-time — Claude Pro, OpenCode, Z.ai |
-| [**cal-mcp**](https://github.com/ssupawat/cal-mcp) | Apple Calendar MCP server written in Go — gives AI agents access to macOS Calendar |
-| [**pio-ai-demo**](https://github.com/ssupawat/pio-ai-demo) | Firmware development on the CLI with pi.dev — Arduino Uno demos driven by an AI coding agent |
-| [**pi-config-template**](https://github.com/ssupawat/pi-config-template) | Template for portable pi coding agent config across machines |
+- [**dotoken**](https://github.com/ssupawat/dotoken) - a simple macOS menu bar app to monitor AI usage limits
+- [**cal-mcp**](https://github.com/ssupawat/cal-mcp) - Apple Calendar MCP server written in Go, I will use to deploy in my mac mini run at home.
+- [**pio-ai-demo**](https://github.com/ssupawat/pio-ai-demo) - A demo on firmware development on the CLI with pi.dev using Arduino Uno R3
+- [**pi-config-template**](https://github.com/ssupawat/pi-config-template) Template for portable pi coding agent config across machines including settings.json, skills, AGENTS.md and pi extensions.
 
 ---
 
