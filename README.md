@@ -4,7 +4,7 @@ I'm a software engineer from Bangkok, Thailand 🇹🇭
 
 ### A little bit about me:
 
-- 🌱 I’m building a simple backend system for small-scale applications using chi, clover (a document-based db) with the concept 'import a spreadsheet, get an API'.
+- 🌱 I’m building a simple backend system for small-scale applications using chi, clover (a document-based db) with the concept `import a spreadsheet, get an API`.
 - 👀 I’m passively looking for new opportunities, feel free to reach out if you think we’d be a great match!
 
 ### 🛠️ What I do:
